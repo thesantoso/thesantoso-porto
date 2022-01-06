@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
-  The first iteration of <a href="https://jarin.me" target="_blank">jarin.me</a> built with React.js leveraging Material UI.
+  The first iteration of my porto built with React.js leveraging Material UI.
 </p>
 
 
