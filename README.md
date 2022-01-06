@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
-<h1 align="center">
-  jarin.me - v1
-</h1>
 <p align="center">
   The first iteration of <a href="https://jarin.me" target="_blank">jarin.me</a> built with React.js leveraging Material UI.
 </p>
