@@ -82,6 +82,17 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    "AIA Indonesia": {
+       jobTitle: "IT Support Engineer @",
+       duration: "DES 2021 - Now",
+       desc: [
+        "Configuring Networking using Mikrotik Router and Cisco Switch",
+        "Configuring Domain and VPN",
+        "Troubleshooting problematic computer systems or network components",
+        "Develop design documents, user guides, maintenance documents, project documentation, and release documents",
+        "Respond to all inquiries and requests in a timely manner"
+      ]
+    },
     "Skilvul": {
       jobTitle: "UI/UX Designer @",
       duration: "AUG 2021 - FEB 2022",
@@ -111,17 +122,6 @@ const JobList = () => {
         "Ensure that the input data is accurate.",
         "Finding and discrepancies between existing data in the system and paper documents",
         "Provide information to related users if requested from various divisions."
-      ]
-    },
-       "AIA Indonesia": {
-       jobTitle: "IT Support Engineer @",
-       duration: "DES 2021 - Now",
-       desc: [
-        "Configuring Networking using Mikrotik Router and Cisco Switch",
-        "Configuring Domain and VPN",
-        "Troubleshooting problematic computer systems or network components",
-        "Develop design documents, user guides, maintenance documents, project documentation, and release documents",
-        "Respond to all inquiries and requests in a timely manner"
       ]
     },
     // NONE: {
