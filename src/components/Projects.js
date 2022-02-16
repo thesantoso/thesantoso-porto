@@ -39,7 +39,14 @@ class Projects extends React.Component {
         desc:
           "Build a clone TETRIS game with visual c++. No Open GL No DirectX",
         techStack: "C++",
-        link: "https://github.com/thesantoso",
+        link: "https://github.com/thesantoso/CloneTetris",
+        open: ""
+      },
+      "Distro ID (Laravel 7)": {
+        desc:
+          "An application created for Fashion Store my Friend, with a Laravel and Bootstrap.",
+        techStack: "PHP (Laravel), Vue.js, Bootstrap, MySQL",
+        link: "https://github.com/thesantoso/Laravel-Distro",
         open: ""
       },
       // Truth: {
