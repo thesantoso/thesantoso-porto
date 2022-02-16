@@ -113,13 +113,17 @@ const JobList = () => {
         "Provide information to related users if requested from various divisions."
       ]
     },
-    // KOSONG: {
-    //   jobTitle: "Software Engineer @",
-    //   duration: "SEPT 2019 - DEC 2020",
-    //   desc: [
-    //     "Co-developed homework management software integrable with Google Classroom by utilizing the Python’s Flask micro-framework for the back-end API and Vue.js for the front-end UI, in order to translate business requirements into a functional full-stack application."
-    //   ]
-    // },
+       "AIA Indonesia": {
+       jobTitle: "IT Support Engineer @",
+       duration: "DES 2021 - Now",
+       desc: [
+        "Configuring Networking using Mikrotik Router and Cisco Switch",
+        "Configuring Domain and VPN",
+        "Troubleshooting problematic computer systems or network components",
+        "Develop design documents, user guides, maintenance documents, project documentation, and release documents",
+        "Respond to all inquiries and requests in a timely manner"
+      ]
+    },
     // NONE: {
     //   jobTitle: "Software Engineering Intern @",
     //   duration: "MAY 2019 - AUG 2019",
