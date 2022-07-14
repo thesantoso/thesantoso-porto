@@ -1,7 +1,14 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
-  The first iteration of my porto built with React.js leveraging Material UI.
 </p>
+<h1 align="center">
+  jarin.me - v1
+</h1>
+<p align="center">
+  The first iteration of <a href="https://jarin.me" target="_blank">jarin.me</a> built with React.js leveraging Material UI.
+</p>
+
+<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="![image](https://user-images.githubusercontent.com/86040508/179041528-60c80c96-4c93-4072-a487-69e69581117e.png)">
 
 
 ## 🛠 Installation & Set Up
