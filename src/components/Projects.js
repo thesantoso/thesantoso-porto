@@ -21,10 +21,10 @@ class Projects extends React.Component {
   }
   render() {
     const projects = {
-      "E-Comm San Komputer (Laravel 7)": {
+      "E-Commerce San Komputer": {
         desc:
           "An application created for my Store, with a Laravel back-end and a Vue front-end.",
-        techStack: "PHP (Laravel), Vue.js, Bootstrap, MySQL",
+        techStack: "Laravel, Vue.js, Bootstrap, MySQL",
         link: "https://github.com/thesantoso/Laravel-Web-E-Commerse",
         open: "https://sankomputer.thesantoso.my.id/"
       },
@@ -42,27 +42,27 @@ class Projects extends React.Component {
         link: "https://github.com/thesantoso/CloneTetris",
         open: ""
       },
-      "Distro ID (Laravel 7)": {
+      "Distro IDN": {
         desc:
           "An application created for Fashion Store my Friend, with a Laravel and Bootstrap.",
-        techStack: "PHP (Laravel), Vue.js, Bootstrap, MySQL",
+        techStack: "Laravel, Vue.js, Bootstrap, MySQL",
         link: "https://github.com/thesantoso/Laravel-Distro",
         open: ""
       },
-      // Truth: {
-      //   desc:
-      //     "A three.js simulation of the planet system revolving around a monolith.",
-      //   techStack: "Three.js",
-      //   link: "https://github.com/gazijarin/truth",
-      //   open: "https://gazijarin.github.io/Truth/"
-      // },
-      // "Odin Bot": {
-      //   desc:
-      //     "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
-      //   techStack: "Javascript, Node.js, Natural NLP, Telegram API",
-      //   link: "https://github.com/gazijarin/OdinBot",
-      //   open: ""
-      // },
+      "D3 Petshop": {
+        desc:
+          "Gunadarma University Junior Web Programmer LSP Exam Case Study in 2022.",
+        techStack: "Laravel, Javascript, Bootstrap, MySQL",
+        link: "https://github.com/thesantoso/D3petshop",
+        open: ""
+      },
+      "Hotel APP": {
+        desc:
+          "Hotel App that helps you find nearby hotels and make reservations.",
+        techStack: "React Native, Javascript, Hotel API",
+        link: "hhttps://github.com/thesantoso/hotelApp-with-react",
+        open: ""
+      },
       // "Game Centre": {
       //   desc:
       //     "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",

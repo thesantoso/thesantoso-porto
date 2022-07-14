@@ -44,8 +44,9 @@ canvas {
 .intro-desc {
   color: var(--slate);
   font-family: "NTR", sans-serif;
-  font-size: 20px;
-  max-width: 55%;
+  font-size: 22px;
+  max-width: 40%;
+  text-align: justify;
   padding-bottom: 50px;
 }
 

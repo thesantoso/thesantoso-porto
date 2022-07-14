@@ -38,13 +38,12 @@ class Intro extends React.Component {
         <FadeInSection>
           <div className="intro-subtitle">I create stuff sometimes.</div>
           <div className="intro-desc">
-            Hi! I am Rizky Dwi Santoso, a web developer focused on crafting web. 
-            Designing and Coding have been my passion since the days I started study 
-            with computers but I found myself into web development since 2016. I enjoy 
-            creating beautifully designed, intuitive and functional websites.
-            {/* I'm a software engineer based in Bekasi, West Java, ID. I have profound
-            interest in machine learning, human-computer interactions, frontend
-            development, and everything in between. */}
+            {/* I'm a software engineer and artist based in Toronto. 
+            I have great interest in full-stack development, artificial intelligence, 
+            human-computer interactions, and everything in between. */}
+            I'm a software engineer based in Bekasi, West Java, ID. I have great
+            interest in machine learning, human-computer interactions, web
+            development, and everything in between.
           </div>
           <a
             href="mailto:rsantoso.me@gmail.com"

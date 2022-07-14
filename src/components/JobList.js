@@ -82,6 +82,16 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    "Hacktiv8": {
+       jobTitle: "React FrontEnd Developer @",
+       duration: "FEB 2022 - JUL 2022",
+       desc: [
+        "Implement the React framework in creating a Landing Page Website using React.JS in accordance with atomic design rules",
+        "Configuring Domain and VPN",
+        "Develop mobile-based Hybrid Apps for Android and iOS using React Native",
+        "Managing data in the Front End sphere using Redux includes implementing the Next.JSframework concept for server-side needs."
+      ]
+    },
     "AIA Indonesia": {
        jobTitle: "IT Support Engineer @",
        duration: "DES 2021 - Now",

@@ -19,17 +19,25 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently studying <b>Computer Science</b> at{" "}
-        <b> Gunadarma University </b>, with a focus in Web Development.
-        Last year, I was on a one-year internship at{" "}
-        <a href="https://www.btn.co.id/">Skilvul</a> as a{" "}
-        <b>UI/UX Designer</b>.
+        I am currently a fourth year <b>information Systems major</b> at{" "}
+        <a href="https://www.gunadarma.ac.id/sejarah">Gunadarma University</a>, with a focus in Web Development.
+        I just finished the React and React Native Bootcamp at{" "}
+        <a href="https://www.btn.co.id/">Hacktiv8</a> as a{" "}
+        <b>Frontend Developer</b>.
       </p>
     );
+    const tech_stack = [
+      "Javascript ES6+",
+      "React.js",
+      "PHP (Laravel)",
+      "Git",
+      "HTML & CSS"
+    ];
     const two = (
       <p>
-        I'm into <b>machine learning</b>, <b>human-computer interactions</b> and{" "}
-        <b>Back End development</b>. In my free time, I drink coffee and play video games just for fun.
+        {/* I'm into <b>machine learning</b>, <b>human-computer interactions</b> and{" "}
+        <b>Back End development</b>.  */}
+        Outside of work, I'm interested in following the developments of science. I also play a lot of video games
       </p>
     );
     const three = (
@@ -41,19 +49,12 @@ class About extends React.Component {
         and let's talk.
       </p>
     );
-    const desc_items = [one, two];
+    const desc_items = [one];
+    const desc_outside= [two];
 
-    const tech_stack = [
-      "Backend Web Development",
-      "Frontend Web Development",
-      "UI/UX Design",
-      "API Development",
-      "Problem-Solving",
-      "Fast Learning"
-    ];
 
     const tech_items = tech_stack.map(stack => <li>{stack}</li>);
-    var image = require("./assets/san.jpg");
+    var image = require("./assets/saya.jpeg");
 
     return (
       <div id="about">
@@ -63,7 +64,7 @@ class About extends React.Component {
           </div>
           <div className="about-content">
             <div className="about-description">
-              {desc_items}
+              {desc_items }
               {"Here are some technologies I have been working with:"}
               <ul className="tech-stack">
                 {tech_stack.map(function (tech_item, i) {
@@ -74,6 +75,7 @@ class About extends React.Component {
                   );
                 })}
               </ul>
+              {desc_outside }
             </div>
             <div className="about-image">
               <img src={image} />
