@@ -60,7 +60,7 @@ class Projects extends React.Component {
         desc:
           "Hotel App that helps you find nearby hotels and make reservations.",
         techStack: "React Native, Javascript, Hotel API",
-        link: "hhttps://github.com/thesantoso/hotelApp-with-react",
+        link: "https://github.com/thesantoso/hotelApp-with-react",
         open: ""
       },
       // "Game Centre": {
