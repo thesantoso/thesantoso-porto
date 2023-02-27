@@ -82,9 +82,18 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    "Hacktiv8": {
-       jobTitle: "React FrontEnd Developer @",
-       duration: "FEB 2022 - JUL 2022",
+    "AIA Indonesia": {
+      jobTitle: "IT Support Engineer (Project) @",
+      duration: "JAN 2022 - NOV 2022",
+      desc: [
+       "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
+       "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)",
+       "Responsible to Office Tools Management (ISP, Router, Access Point, Printer, Telephone, Managing ERP)"
+     ]
+   },
+    "PT. Hacktivate Teknologi Indonesia": {
+       jobTitle: "React & React Native FrontEnd Developer Internship (Remote) @",
+       duration: "FEB 2022 - JUN 2022",
        desc: [
         "Implement the React framework in creating a Landing Page Website using React.JS in accordance with atomic design rules",
         "Configuring Domain and VPN",
@@ -92,20 +101,9 @@ const JobList = () => {
         "Managing data in the Front End sphere using Redux includes implementing the Next.JSframework concept for server-side needs."
       ]
     },
-    "AIA Indonesia": {
-       jobTitle: "IT Support Engineer @",
-       duration: "DES 2021 - Now",
-       desc: [
-        "Configuring Networking using Mikrotik Router and Cisco Switch",
-        "Configuring Domain and VPN",
-        "Troubleshooting problematic computer systems or network components",
-        "Develop design documents, user guides, maintenance documents, project documentation, and release documents",
-        "Respond to all inquiries and requests in a timely manner"
-      ]
-    },
-    "Skilvul": {
-      jobTitle: "UI/UX Designer @",
-      duration: "AUG 2021 - FEB 2022",
+    "PT. Impactbyte Teknologi Edukasi": {
+      jobTitle: "UI/UX Designer Internship (Remote) @",
+      duration: "AUG 2021 - DEC 2021",
       desc: [
         "Create a mobile application design for the Jago Last Wish feature related to life insurance products for Bank Jago",
         "Designed, developed, and deployed business intelligence applications",
@@ -114,24 +112,24 @@ const JobList = () => {
         "Manage project through status meetings, weekly reports, identifying risks, and tracking issues"
       ]
     },
-    "Generali Indonesia": {
-      jobTitle: "IT Support Specialist @",
+    "PT. Asuransi Jiwa Generali Indonesia": {
+      jobTitle: "IT Support Engineer (Project) @",
       duration: "AUG 2021 - DES 2021",
       desc: [
-        "Configuring Networking using Mikrotik Router and Cisco Switch",
         "Configuring Domain and VPN",
         "Troubleshooting problematic computer systems or network components",
-        "Develop design documents, user guides, maintenance documents, project documentation, and release documents",
+        "Develop user guides, maintenance documents, project documentation, and release documents",
         "Respond to all inquiries and requests in a timely manner"
       ]
     },
-     "Bank BTN": {
-      jobTitle: "Data Entry @",
-      duration: "AUG 2020 - DES 2020",
+     "PT. Bank Tabungan Negara (Persero) Tbk KCP Harapan Indah Bekasi": {
+      jobTitle: "IT Support Engineer (Project) @",
+      duration: "AUG 2017 - DES 2017",
       desc: [
-        "Ensure that the input data is accurate.",
-        "Finding and discrepancies between existing data in the system and paper documents",
-        "Provide information to related users if requested from various divisions."
+        "Monitoring and Supporting for production servers and devices.",
+        "Perform system, hardware and network maintenance on regularly",
+        "Keep system, hardware and network performance, stable and secure",
+        "Installation and troubleshooting servers and devices"
       ]
     },
     // NONE: {
