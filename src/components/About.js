@@ -19,8 +19,8 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a fourth year <b>information Systems major</b> at{" "}
-        <a href="https://www.gunadarma.ac.id/sejarah">Gunadarma University</a>, with a focus in Web Development.
+        I am a graduate of{" "}
+        <a href="https://www.gunadarma.ac.id/sejarah">Gunadarma University</a>, with a <b>Bachelor's degree in information Systems</b>
         I just finished the React and React Native Bootcamp at{" "}
         <a href="https://www.btn.co.id/">Hacktiv8</a> as a{" "}
         <b>Frontend Developer</b>.
