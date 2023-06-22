@@ -19,11 +19,13 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am a graduate of{" "}
-        <a href="https://www.gunadarma.ac.id/sejarah">Gunadarma University</a>, with a <b>Bachelor's degree in information Systems</b>, 
-        I just finished the React and React Native Bootcamp at{" "}
+        Currently, I am Internship as a <b>Software QA Engineer</b> at {" "} 
+        <a href="https://sagaratechnology.com/">Sagara Technology</a>
+        I am a graduate of
+        <a href="https://www.gunadarma.ac.id/sejarah">University of Gunadarma</a>, with a <b>Bachelor's of Science</b> in <b>Information Systems</b>, 
+        {/* I just finished the React and React Native Bootcamp at{" "}
         <a href="https://www.btn.co.id/">Hacktiv8</a> as a{" "}
-        <b>Frontend Developer</b>.
+        <b>Frontend Developer</b>. */}
       </p>
     );
     const tech_stack = [
