@@ -52,7 +52,7 @@ class Intro extends React.Component {
             className="intro-contact"
           >
             <EmailRoundedIcon></EmailRoundedIcon>
-            {"  " + "Say hello"}
+            {"  " + "Say hi!"}
           </a>
         </FadeInSection>
       </div>

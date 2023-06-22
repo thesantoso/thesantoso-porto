@@ -82,17 +82,44 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    "AIA Indonesia": {
-      jobTitle: "IT Support Engineer (Project) @",
-      duration: "JAN 2022 - NOV 2022",
+    "Sagara Technology": {
+      jobTitle: "Software Quality Assurance (Internship) @",
+      duration: "JUN 2023 - PRESENT",
       desc: [
        "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
        "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)",
        "Responsible to Office Tools Management (ISP, Router, Access Point, Printer, Telephone, Managing ERP)"
      ]
+    },
+    "MySkill": {
+      jobTitle: "Quality Assurance Engineer (Bootcamp) @",
+      duration: "APR 2023 - JUN 2023",
+      desc: [
+       "Test the products on a website and mobile, with Testing Framework and Software Testing Life Cycle",
+       "Design test scenario and implement tests, defect tracking systems (bug) using automated Testing Tools",
+       "Find issues on web pages and prevent them by using Selenium for automated tests."
+     ]
+    },
+    "SoftwareHouse": {
+      jobTitle: "Web Developer (Freelance) @",
+      duration: "MAR 2020 - APR 2023",
+      desc: [
+       "Created website visual content using HTML, CSS, and JavaScript language as a Front-End, making the website easier to understand for readers."
+       "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
+       "Created database and functional website using Laravel and MySQL as a Back-End, to make more dynamic website.",
+     ]
+    },
+    "JATIS": {
+      jobTitle: "IT Support Engineer @",
+      duration: "MAR 2021 - NOV 2022",
+      desc: [
+        "Led and managed end-to-end IT operations and infrastructure, ensuring smooth functioning of servers, databases, and other IT systems, while meeting functional and technical requirements."
+        "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
+        "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)",
+     ]
    },
-    "PT. Hacktivate Teknologi Indonesia": {
-       jobTitle: "React & React Native FrontEnd Developer Internship (Remote) @",
+    "HACTIV8": {
+       jobTitle: "React FrontEnd Developer Internship (Remote) @",
        duration: "FEB 2022 - JUN 2022",
        desc: [
         "Implement the React framework in creating a Landing Page Website using React.JS in accordance with atomic design rules",
@@ -101,7 +128,7 @@ const JobList = () => {
         "Managing data in the Front End sphere using Redux includes implementing the Next.JSframework concept for server-side needs."
       ]
     },
-    "PT. Impactbyte Teknologi Edukasi": {
+    "SKILVUL": {
       jobTitle: "UI/UX Designer Internship (Remote) @",
       duration: "AUG 2021 - DEC 2021",
       desc: [
@@ -111,27 +138,6 @@ const JobList = () => {
         "Executed and validated test cases",
         "Manage project through status meetings, weekly reports, identifying risks, and tracking issues"
       ]
-    },
-    "PT. Asuransi Jiwa Generali Indonesia": {
-      jobTitle: "IT Support Engineer (Project) @",
-      duration: "AUG 2021 - DES 2021",
-      desc: [
-        "Configuring Domain and VPN",
-        "Troubleshooting problematic computer systems or network components",
-        "Develop user guides, maintenance documents, project documentation, and release documents",
-        "Respond to all inquiries and requests in a timely manner"
-      ]
-    },
-     "PT. Bank Tabungan Negara (Persero) Tbk KCP Harapan Indah Bekasi": {
-      jobTitle: "IT Support Engineer (Project) @",
-      duration: "AUG 2017 - DES 2017",
-      desc: [
-        "Monitoring and Supporting for production servers and devices.",
-        "Perform system, hardware and network maintenance on regularly",
-        "Keep system, hardware and network performance, stable and secure",
-        "Installation and troubleshooting servers and devices"
-      ]
-    },
     // NONE: {
     //   jobTitle: "Software Engineering Intern @",
     //   duration: "MAY 2019 - AUG 2019",
