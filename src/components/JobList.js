@@ -104,7 +104,7 @@ const JobList = () => {
       jobTitle: "Web Developer (Freelance) @",
       duration: "MAR 2020 - APR 2023",
       desc: [
-       "Created website visual content using HTML, CSS, and JavaScript language as a Front-End, making the website easier to understand for readers."
+       "Created website visual content using HTML, CSS, and JavaScript language as a Front-End, making the website easier to understand for readers.",
        "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
        "Created database and functional website using Laravel and MySQL as a Back-End, to make more dynamic website.",
      ]
@@ -113,9 +113,9 @@ const JobList = () => {
       jobTitle: "IT Support Engineer @",
       duration: "MAR 2021 - NOV 2022",
       desc: [
-        "Led and managed end-to-end IT operations and infrastructure, ensuring smooth functioning of servers, databases, and other IT systems, while meeting functional and technical requirements."
+        "Led and managed end-to-end IT operations and infrastructure, ensuring smooth functioning of servers, databases, and other IT systems, while meeting functional and technical requirements.",
         "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
-        "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)",
+        "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)"
      ]
    },
     "HACTIV8": {
@@ -138,6 +138,7 @@ const JobList = () => {
         "Executed and validated test cases",
         "Manage project through status meetings, weekly reports, identifying risks, and tracking issues"
       ]
+    }
     // NONE: {
     //   jobTitle: "Software Engineering Intern @",
     //   duration: "MAY 2019 - AUG 2019",
@@ -148,7 +149,7 @@ const JobList = () => {
     //   ]
     // }
   };
-
+  
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
