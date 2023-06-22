@@ -83,16 +83,17 @@ const JobList = () => {
 
   const experienceItems = {
     "Sagara Technology": {
-      jobTitle: "Software Quality Assurance (Internship) @",
+      jobTitle: "Software QA Engineer (Internship) @",
       duration: "JUN 2023 - PRESENT",
       desc: [
-       "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
-       "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)",
-       "Responsible to Office Tools Management (ISP, Router, Access Point, Printer, Telephone, Managing ERP)"
+       "Create, update, and maintain comprehensive test documentation (test case, test script, prioritization) based on requirements to ensure reliable product delivery (functional and performance testing)",
+       "Ensuring high-quality products are being released rapidly yet confidently",
+       "Working with cross-functional team to expedite speedy and reliable delivery",
+       "Find issues on web pages and prevent them by using automated testing tools."
      ]
     },
     "MySkill": {
-      jobTitle: "Quality Assurance Engineer (Bootcamp) @",
+      jobTitle: "Software QA Engineer (Bootcamp) @",
       duration: "APR 2023 - JUN 2023",
       desc: [
        "Test the products on a website and mobile, with Testing Framework and Software Testing Life Cycle",
@@ -105,8 +106,7 @@ const JobList = () => {
       duration: "MAR 2020 - APR 2023",
       desc: [
        "Created website visual content using HTML, CSS, and JavaScript language as a Front-End, making the website easier to understand for readers.",
-       "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
-       "Created database and functional website using Laravel and MySQL as a Back-End, to make more dynamic website.",
+       "Created database and functional website using Laravel and MySQL as a Back-End, to make more dynamic website."
      ]
     },
     "JATIS": {
@@ -115,7 +115,7 @@ const JobList = () => {
       desc: [
         "Led and managed end-to-end IT operations and infrastructure, ensuring smooth functioning of servers, databases, and other IT systems, while meeting functional and technical requirements.",
         "Prepare for New Employee Onboarding (Laptop Preparation, Create Email, Laptop Handover, and Laptop QC)",
-        "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Email/MS.Office issues, Laptop Service)"
+        "In charge of Troubleshooting Issue problem Laptop / Inquiries and Request & Complaints (Hardware, Software, Network issues)"
      ]
    },
     "HACTIV8": {
@@ -123,7 +123,6 @@ const JobList = () => {
        duration: "FEB 2022 - JUN 2022",
        desc: [
         "Implement the React framework in creating a Landing Page Website using React.JS in accordance with atomic design rules",
-        "Configuring Domain and VPN",
         "Develop mobile-based Hybrid Apps for Android and iOS using React Native",
         "Managing data in the Front End sphere using Redux includes implementing the Next.JSframework concept for server-side needs."
       ]
