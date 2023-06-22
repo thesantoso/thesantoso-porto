@@ -42,8 +42,10 @@ class Intro extends React.Component {
             I have great interest in full-stack development, artificial intelligence, 
             human-computer interactions, and everything in between. */}
             I'm a software quality assurance based in Bekasi, West Java, ID. I have great
-            interest in machine learning, human-computer interactions, web
-            development, and everything in between.
+            As a QA Engineer, Quality is not an Act, it is a Habit. 
+            Embrace the Pursuit of Excellence. highly self motivated and having a great enthusiasm towards Software Testing. 
+            I enjoy researching and learning new Testing tools and techniques with a passion for career growth. 
+            I aim to learn and contribute in Software Testing industry in every possible way.
           </div>
           <a
             href="mailto:rsantoso.me@gmail.com"
