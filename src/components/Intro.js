@@ -41,7 +41,7 @@ class Intro extends React.Component {
             {/* I'm a software engineer and artist based in Toronto. 
             I have great interest in full-stack development, artificial intelligence, 
             human-computer interactions, and everything in between. */}
-            I'm a software engineer based in Bekasi, West Java, ID. I have great
+            I'm a software quality assurance based in Bekasi, West Java, ID. I have great
             interest in machine learning, human-computer interactions, web
             development, and everything in between.
           </div>
