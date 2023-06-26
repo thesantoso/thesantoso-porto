@@ -86,7 +86,7 @@ const JobList = () => {
       jobTitle: "Mobile Developer",
       duration: "JUN 2023 - PRESENT",
       desc: [
-        "",
+        "Develop mobile apps",
         ""
       ]
     },
