@@ -82,6 +82,14 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    "Indoland Indonesia": {
+      jobTitle: "Mobile Developer",
+      duration: "JUN 2023 - PRESENT",
+      desc: [
+        "",
+        ""
+      ]
+    },
     "Sagara Technology": {
       jobTitle: "Software QA Engineer (Internship) @",
       duration: "JUN 2023 - PRESENT",
