@@ -86,8 +86,11 @@ const JobList = () => {
       jobTitle: "Mobile Developer",
       duration: "JUN 2023 - PRESENT",
       desc: [
-        "Develop mobile apps",
-        ""
+        "Build application for Android and iOS platform",
+        "Collaborate with team to define, design, and ship new features",
+        "Identify and fixing a bugs",
+        "Help maintain code quality, automatization, and organization",
+        "We work in an open environment, everyone is encouraged to speak their mind and ideas to improve the company, products, and themselves"
       ]
     },
     "Sagara Technology": {
