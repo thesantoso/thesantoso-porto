@@ -21,8 +21,8 @@ class About extends React.Component {
       <p>
         I am a graduate of
         <a href="https://www.gunadarma.ac.id/sejarah"> University of Gunadarma </a>, with a <b>Bachelor's of Science</b> in <b>Information Systems</b>, 
-        Currently, I am Internship as a <b>Software QA Engineer</b> at {" "} 
-        <a href="https://sagaratechnology.com/"> Sagara Technology </a>
+        I am currently a <b>Mobile Developer</b> at {" "} 
+        <a href="https://sagaratechnology.com/"> Indoland </a>
         {/* I just finished the React and React Native Bootcamp at{" "}
         <a href="https://www.btn.co.id/">Hacktiv8</a> as a{" "}
         <b>Frontend Developer</b>. */}
