@@ -28,17 +28,17 @@ class About extends React.Component {
       </p>
     );
     const tech_stack = [
+      "Flutter",
+      "React",
       "Javascript ES6+",
-      "React.js",
       "PHP (Laravel)",
       "Git",
-      "HTML & CSS"
     ];
     const two = (
       <p>
         {/* I'm into <b>machine learning</b>, <b>human-computer interactions</b> and{" "}
         <b>Back End development</b>.  */}
-        Outside of work, I'm interested in following the developments of science. I also play a lot of video games
+        Beyond my professional endeavors, I actively engage in staying abreast of advancements in science. Additionally, I have a keen interest in video games, contributing to a well-rounded perspective.
       </p>
     );
     const three = (
