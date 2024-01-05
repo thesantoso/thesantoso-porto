@@ -19,10 +19,9 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am a graduate of
-        <a href="https://www.gunadarma.ac.id/sejarah"> University of Gunadarma </a>, with a <b>Bachelor's of Science</b> in <b>Information Systems</b>, 
-        I am currently a <b>Mobile Developer</b> at {" "} 
-        <a href="https://sagaratechnology.com/"> Indoland </a>
+        I hold a <b>Bachelor's of Science in Information Systems</b> from
+        <a href="https://www.gunadarma.ac.id/sejarah"> University of Gunadarma </a>, and currently serve as a Mobile Developer at {" "} 
+        <a href="https://indoland-group.co.id/"> Indoland </a>. My professional expertise encompasses a range of technologies, including:
         {/* I just finished the React and React Native Bootcamp at{" "}
         <a href="https://www.btn.co.id/">Hacktiv8</a> as a{" "}
         <b>Frontend Developer</b>. */}
