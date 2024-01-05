@@ -41,10 +41,11 @@ class Intro extends React.Component {
             {/* I'm a software engineer and artist based in Toronto. 
             I have great interest in full-stack development, artificial intelligence, 
             human-computer interactions, and everything in between. */}
-            I'm a software quality assurance engineer based in Jakarta.
-            As a QA Engineer, Quality is not an Act, it is a Habit. 
-            Embrace the Pursuit of Excellence. highly self motivated and having a great enthusiasm towards Software Testing. 
-            I enjoy researching and learning new Testing tools and techniques with a passion for career growth. 
+            Based in Jakarta, I am a Software Engineer with a focus on 
+            mobile development at Indoland. A graduate of the University of Gunadarma 
+            in Information Systems, I bring a holistic approach to technology. 
+            Beyond coding, I stay updated on tech trends and demonstrate a 
+            commitment to continuous learning.
            
           </div>
           <a
