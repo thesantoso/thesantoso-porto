@@ -83,7 +83,7 @@ const JobList = () => {
 
   const experienceItems = {
     "Indoland Indonesia": {
-      jobTitle: "Mobile Developer",
+      jobTitle: "Mobile Developer @",
       duration: "JUN 2023 - PRESENT",
       desc: [
         "Build application for Android and iOS platform",
@@ -112,8 +112,8 @@ const JobList = () => {
        "Find issues on web pages and prevent them by using Selenium for automated tests."
      ]
     },
-    "SoftwareHouse": {
-      jobTitle: "Web Developer (Freelance) @",
+    "Freelance": {
+      jobTitle: "Web Developer @",
       duration: "MAR 2020 - APR 2023",
       desc: [
        "Created website visual content using HTML, CSS, and JavaScript language as a Front-End, making the website easier to understand for readers.",
@@ -130,7 +130,7 @@ const JobList = () => {
      ]
    },
     "HACTIV8": {
-       jobTitle: "React FrontEnd Developer Internship (Remote) @",
+       jobTitle: "React FrontEnd Developer Virtual Internship by Kampus Merdeka @",
        duration: "FEB 2022 - JUN 2022",
        desc: [
         "Implement the React framework in creating a Landing Page Website using React.JS in accordance with atomic design rules",
