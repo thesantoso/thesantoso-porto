@@ -41,9 +41,7 @@ class Intro extends React.Component {
             {/* I'm a software engineer and artist based in Toronto. 
             I have great interest in full-stack development, artificial intelligence, 
             human-computer interactions, and everything in between. */}
-            Based in Jakarta, I am a Software Engineer with a focus on 
-            mobile development at Indoland. A graduate of the University of Gunadarma 
-            in Information Systems, I bring a holistic approach to technology. 
+            I'm a software engineer based in Jakarta. I bring a holistic approach to technology. 
             Beyond coding, I stay updated on tech trends and demonstrate a 
             commitment to continuous learning.
            
